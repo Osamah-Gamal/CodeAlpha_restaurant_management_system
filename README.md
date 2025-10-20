@@ -12,9 +12,9 @@ Base URL=> http://localhost:5000/api
 
 # Before starting with the API, these are the types of Status...
 ## 🔄 Status Values
-# Order Status: pending, preparing, completed, cancelled
-# Table Status: available, occupied, reserved
-# Reservation Status: confirmed, cancelled
+Order Status: pending, preparing, completed, cancelled
+Table Status: available, occupied, reserved
+Reservation Status: confirmed, cancelled
 
 
 ## 📋 Menu Routes
