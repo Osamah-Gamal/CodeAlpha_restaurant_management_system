@@ -16,7 +16,6 @@ Order Status: pending, preparing, completed, cancelled
 Table Status: available, occupied, reserved
 Reservation Status: confirmed, cancelled
 
-
 ## 📋 Menu Routes
 Get All Menu Items
 Route: `GET /api/menu`
@@ -37,9 +36,7 @@ Response:
 
 Get Single Menu Item
 Route: GET /api/menu/:id
-
 Response:
-
 json
 {
   "success": true,
